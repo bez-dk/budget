@@ -1,0 +1,23 @@
+{
+    "name": "bez-dk/budget",
+    "description": "Budget Manager",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Jonas Storm Nikolajsen",
+            "email": "info@bez.dk"
+        }
+    ],
+    "type": "kodus-module",
+    "minimum-stability": "dev",
+    "prefer-stable": true
+    "require": {
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Bez\\Budget\\": "src/"
+        }
+    }
+}
